@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias Galeano</h1>
-<h3 align="center">Web developer trainee</h3>
+<h3 align="center">Fullstack Web developer</h3>
 
-- 🌱 Actualmente estoy estudiando **Angular y Bootstrap**
+- 🌱 Actualmente estoy estudiando **Angular y Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

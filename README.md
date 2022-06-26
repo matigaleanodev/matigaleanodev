@@ -1,6 +1,6 @@
 ### Hola 👋, soy Matias
 #### Fullstack Developer
-![Fullstack Developer](https://github.com/MatiGaleano/Portfolio-Frontend/blob/main/src/assets/images/banner-home.png?raw=true)
+<img src="https://github.com/MatiGaleano/Portfolio-Frontend/blob/main/src/assets/images/banner-home.png?raw=true" width="400px">
 
 Descubrí el mundo de la programación en 2020 y al año siguiente decidí estudiar desarrollo web en Argentina Programa. Actualmente me encuentro estudiando de forma autodidacta y desarrollando en Angular
 

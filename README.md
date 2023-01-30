@@ -18,7 +18,7 @@ Descubrí el mundo de la programación en 2020 y al año siguiente decidí estud
 </div>
 
 
-- 🔭 Estoy trabajando en mí Portfolio Web. 
+- 🔭 Actualmente trabajando en Ingertec Argentina
 
 
 

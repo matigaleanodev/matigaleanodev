@@ -2,6 +2,7 @@
 ### Fullstack Developer
 
 Descubrí el mundo de la programación en 2020 y al año siguiente decidí estudiar desarrollo web en Argentina Programa. Actualmente me encuentro estudiando de forma autodidacta y desarrollando en Angular
+ 🔭 Actualmente trabajando en Ingertec Argentina
 
 ## Habilidades:
 <div>
@@ -16,9 +17,6 @@ Descubrí el mundo de la programación en 2020 y al año siguiente decidí estud
   <img src="https://img.icons8.com/color/452/nodejs.png" width="80px"/>
   <img src="https://img.icons8.com/color/452/mysql-logo.png" width="80px"/>
 </div>
-
-
-- 🔭 Actualmente trabajando en Ingertec Argentina
 
 
 

@@ -1,6 +1,6 @@
 # 💻 Sobre mí
 
-¡Hola! 👋 Soy un desarrollador apasionado por **Angular, Ionic y NestJS**. Me gusta crear aplicaciones modernas, optimizadas y escalables, aprovechando las últimas tecnologías y buenas prácticas. Actualmente, estoy desarrollando un **bot de discord** y un **blog personal** sobre estas tecnologías, también trabajo en **Ingertec Argentina** ([ingertec.com.ar](https://www.ingertec.com.ar/)) como **Desarrollador Frontend**.
+¡Hola! 👋 Soy un desarrollador apasionado por **Angular, Ionic y NestJS**. Me gusta crear aplicaciones modernas, optimizadas y escalables, aprovechando las últimas tecnologías y buenas prácticas. Actualmente, estoy desarrollando un **bot de discord** y un **blog personal** sobre estas tecnologías, también trabajo en **[Ingertec Argentina](https://www.ingertec.com.ar/)** como **Desarrollador Frontend**.
 
 ## 🚀 Tecnologías y herramientas
 

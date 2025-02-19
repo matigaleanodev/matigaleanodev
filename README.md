@@ -20,7 +20,7 @@ Estoy construyendo un blog donde compartiré contenido sobre **Angular, Ionic y 
 
 [![Email](https://img.shields.io/badge/Email-FFCA28?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@matiasgaleano.com.ar)
 [![Web](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=appveyor&logoColor=white)](https://matiasgaleano.com.ar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matigaleano.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matigaleanodev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matigaleanodev)
 
 ¡Gracias por visitar mi perfil! 😊

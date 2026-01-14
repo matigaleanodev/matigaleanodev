@@ -1,20 +1,29 @@
 # 💻 Sobre mí
 
-¡Hola! 👋 Soy un desarrollador apasionado por **Angular, Ionic y NestJS**. Me gusta crear aplicaciones modernas, optimizadas y escalables, aprovechando las últimas tecnologías y buenas prácticas. Actualmente, estoy desarrollando un **bot de discord** y un **blog personal** sobre estas tecnologías, también trabajo en **[Ingertec Argentina](https://www.ingertec.com.ar/)** como **Desarrollador Frontend y Mobile**.
+¡Hola! 👋  
+Soy **Desarrollador Fullstack especializado en Angular**, con experiencia en **aplicaciones web y móviles en producción**, trabajando principalmente en **mantenimiento evolutivo, refactors, optimización de rendimiento y mejora continua de la experiencia de usuario**.
+
+Actualmente trabajo en **Ingertec Argentina** como **Frontend / Mobile Developer**, participando en el desarrollo y evolución de plataformas reales de monitoreo, gestión y control de sistemas, utilizando **Angular, Ionic y NestJS**.
+
+En paralelo, desarrollo proyectos personales para seguir profundizando en el ecosistema Angular y tecnologías asociadas.
 
 ## 🚀 Tecnologías y herramientas
 
+### Frontend
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+### Backend y servicios
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-## 📖 Mi Blog
+### Bases de datos
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-Estoy construyendo un blog donde compartiré contenido sobre **Angular, Ionic y NestJS**. En este espacio, escribiré artículos técnicos, tutoriales y mejores prácticas para ayudar a otros desarrolladores. 🚧
+
 
 ## 📫 Contacto
 

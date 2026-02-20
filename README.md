@@ -59,7 +59,7 @@ Vacation rental catalog platform designed with multi-tenant backend architecture
 
 Detailed project architecture, technical decisions and development methodology:
 
-👉 https://matigaleano-dev.notion.site
+👉 **[Notion Site](https://matigaleano-dev.notion.site/Personal-Site-2faaa07ef7dd8008a753d336af47e26f)**
 
 ---
 

@@ -1,3 +1,5 @@
+<img src="header.png" alt="Matías Galeano" width="100%">
+
 # Matías Galeano
 
 💻 **Full Stack Product Developer**  
@@ -73,4 +75,4 @@ Detailed project architecture, technical decisions and development methodology:
 
 Desarrollador Full Stack orientado a productos, con experiencia construyendo **aplicaciones web y móviles en producción** utilizando Angular, Ionic y NestJS.
 
-Actualmente trabajo en **Ingertec Argentina** desarrollando plataformas empresariales reales y, en paralelo, construyo proyectos personales con arquitecturas modernas, CI/CD y despliegues en la nube.
+Actualmente trabajo en **[Ingertec Argentina](https://ingertec.com.ar)** desarrollando plataformas empresariales reales y, en paralelo, construyo proyectos personales con arquitecturas modernas, CI/CD y despliegues en la nube.

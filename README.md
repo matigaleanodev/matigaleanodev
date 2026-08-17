@@ -67,7 +67,7 @@ Detailed project architecture, technical decisions and development methodology:
 
 🌐 Website: https://matiasgaleano.dev  
 💼 LinkedIn: https://linkedin.com/in/matigaleanodev  
-📧 Email: contacto@matiasgaleano.com.ar
+📧 Email: contacto@matiasgaleano.dev
 
 ---
 

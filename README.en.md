@@ -29,7 +29,14 @@ I work within Comafi's **Mutual Funds team** (Fondos Comunes de Inversión), dev
 ### 🏢 Ingertec Argentina · Full Stack Developer
 **July 2022 — April 2026**
 
-Developed and maintained production platforms across frontend, backend, REST integrations, and MySQL. My work included performance improvements in Smartsen and ongoing development of existing functionality.
+Developed **electrical control and monitoring applications** for clients such as **Cencosud**, across web and mobile platforms.
+
+- Historical data querying and visualization.
+- Real-time monitoring and control of relays and sensors.
+- Web applications built with **Angular** and a **.NET** backend.
+- Mobile applications built with **Ionic**.
+
+Also worked with REST integrations and MySQL, and contributed to performance improvements in Smartsen.
 
 ---
 
@@ -71,7 +78,7 @@ Additional experience: **SQS · RDS · Aurora PostgreSQL · EC2 · ECS · ECR ·
 
 Testing: **Jest · Vitest · Jasmine/Karma · xUnit**.
 
-These technologies bring together my professional experience and personal projects. In my current role, I work with **Angular, NestJS, AWS microservices, CDK, and PostgreSQL**; in Atlas, I develop with **C# and ASP.NET Core**.
+These technologies bring together my professional experience and personal projects. In my current role, I work with **Angular, NestJS, AWS microservices, CDK, and PostgreSQL**. I also have professional experience with **.NET** at Ingertec and develop Atlas with **C# and ASP.NET Core**.
 
 ---
 

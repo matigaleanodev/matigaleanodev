@@ -29,12 +29,12 @@ Trabajo dentro del equipo de **Fondos Comunes de Inversión** de Comafi, desarro
 ### 🏢 Ingertec Argentina · Full Stack Developer
 **Julio de 2022 — abril de 2026**
 
-Trabajé en **Smartsen**, una aplicación de **control y monitoreo eléctrico**, y en **SmartIOT**, su versión móvil, para clientes como **Cencosud**.
+Trabajé en **Smartsen** y **SmartIOT**, aplicaciones de control y monitoreo para clientes como **Cencosud**. Eran aplicaciones independientes, cada una con su propio backend y base de datos **MySQL**.
 
 - Consulta y visualización de datos históricos.
 - Monitoreo en tiempo real y control de relés y sensores.
-- **Smartsen:** aplicación web con **Angular** y backend **.NET**.
-- **SmartIOT:** versión móvil desarrollada con **Ionic**.
+- **Smartsen:** aplicación web de control y monitoreo eléctrico con **Angular** y backend **.NET**.
+- **SmartIOT:** aplicación móvil desarrollada con **Ionic**.
 
 También trabajé con integraciones REST y MySQL, y participé en mejoras de rendimiento en Smartsen.
 

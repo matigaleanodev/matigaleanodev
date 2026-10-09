@@ -2,7 +2,7 @@
 
 <p align="right"><a href="./README.md">Español</a> · <strong>English</strong></p>
 
-# 👋 Hi, I'm Matías Galeano
+# Matías Galeano
 
 💻 **Full Stack Developer · Angular · NestJS · AWS**  
 📍 **Posadas, Misiones, Argentina**

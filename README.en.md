@@ -29,12 +29,12 @@ I work within Comafi's **Mutual Funds team** (Fondos Comunes de Inversión), dev
 ### 🏢 Ingertec Argentina · Full Stack Developer
 **July 2022 — April 2026**
 
-Developed **electrical control and monitoring applications** for clients such as **Cencosud**, across web and mobile platforms.
+Worked on **Smartsen**, an **electrical control and monitoring application**, and **SmartIOT**, its mobile version, for clients such as **Cencosud**.
 
 - Historical data querying and visualization.
 - Real-time monitoring and control of relays and sensors.
-- Web applications built with **Angular** and a **.NET** backend.
-- Mobile applications built with **Ionic**.
+- **Smartsen:** web application built with **Angular** and a **.NET** backend.
+- **SmartIOT:** mobile version built with **Ionic**.
 
 Also worked with REST integrations and MySQL, and contributed to performance improvements in Smartsen.
 
